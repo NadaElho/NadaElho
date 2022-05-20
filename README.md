@@ -3,10 +3,13 @@
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=BE8EC0&width=470&lines=Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
 
+- 🏫 I'm student at faculty of engineering MU **CSED** 
 
 - 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **HTML,CSS and Javascript**
+
+- 🤓 Always learning new things
 
 - 📫 How to reach me **nadaelhosary51@gmail.com**
 
