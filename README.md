@@ -3,7 +3,7 @@
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=BE8EC0&width=500&lines=Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
 
-- 🏫 I'm student at faculty of engineering MU **CSED** 
+- 🏫 I graduated from the faculty of engineering MU **CSED** 
 
 - 🌱 I’m currently learning **React**
 
